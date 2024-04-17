@@ -1,6 +1,7 @@
 # Soccer Lagues SQL Database
 Soccer leagues SQL database project, containing match data of European Big Five (England, Germany, Spain, Italy and France) from 2021-2022 season. Over ~150 000 unique records.
 ## [Documentation and sample list of queries](https://tobi303x.notion.site/Soccer-Lagues-SQL-Database-3f2dc40144a5424d81a35ecbea78f978)
+Feel free to clone repo and check documentation hosted on my Notion page -> https://tobi303x.notion.site/Soccer-Lagues-SQL-Database-3f2dc40144a5424d81a35ecbea78f978
 
 ## Features
 - **Comprehensive Data**: The database contains comprehensive match data from the top five European leagues, providing a rich dataset for analysis.
